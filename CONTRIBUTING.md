@@ -59,6 +59,32 @@ Add your app entry to the `apps` array:
 | `category` | ✅ | App category (e.g., "Utilities", "Games", "Productivity") |
 | `license` | ✅ | License type (e.g., "MIT", "Apache-2.0") |
 
+**Supported Categories:**
+Choose the most appropriate category for your app from the following list:
+
+| Category | Description |
+|----------|-------------|
+| **Utilities** | System tools, file managers, calculators, and productivity helpers |
+| **Games** | Entertainment apps, puzzles, arcade games, and interactive experiences |
+| **Productivity** | Task managers, note-taking apps, calendars, and organization tools |
+| **Communication** | Chat apps, messaging tools, and social networking applications |
+| **Education** | Learning tools, language apps, tutorials, and educational content |
+| **Finance** | Budget trackers, expense managers, banking tools, and financial calculators |
+| **Health & Fitness** | Workout trackers, health monitors, meditation apps, and wellness tools |
+| **Media** | Music players, video apps, image editors, and media management tools |
+| **Travel** | Maps, transportation apps, travel guides, and navigation tools |
+| **Shopping** | E-commerce apps, price comparison tools, and shopping assistants |
+| **News** | RSS readers, news aggregators, and information apps |
+| **Weather** | Weather forecasting, climate data, and environmental monitoring |
+| **Photography** | Camera apps, photo editors, filters, and image processing tools |
+| **Books** | E-readers, libraries, writing tools, and literary applications |
+| **Music & Audio** | Audio players, recording apps, sound editors, and music creation tools |
+| **Art & Design** | Drawing apps, design tools, creative software, and artistic utilities |
+| **Science** | Scientific calculators, data analysis, research tools, and educational science apps |
+| **Lifestyle** | Personal care, fashion, cooking, home improvement, and lifestyle management |
+| **Sports** | Score tracking, team management, fitness logging, and sports-related apps |
+| **Business** | Professional tools, project management, invoicing, and business applications |
+
 ### 4. Open a Pull Request
 
 - Title: `Add [App Name]`
