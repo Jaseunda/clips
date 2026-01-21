@@ -1,6 +1,13 @@
 {
     "version": 1,
-    "updatedAt": "2026-01-22T04:30:00Z",
+    "updatedAt": "2026-01-22T04:48:00Z",
+    "featured": {
+        "title": "Terminal is here",
+        "subtitle": "Full shell access on your device",
+        "description": "Get complete terminal access to your local machine with interactive PTY sessions, tab support, and native performance.",
+        "imageUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/terminal-screenshot-fb3e.png",
+        "app": "com.relay.terminal"
+    },
     "apps": [
         {
             "bundleId": "com.relay.terminal",
