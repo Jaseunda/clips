@@ -1,6 +1,6 @@
 # Relay Clips Store
 
-The official app store for [Relay](https://github.com/Jaseunda/relay) — a distributed operating system.
+The official app store for [Relay](https://relay.notapublicfigureanymore.com) — a distributed operating system.
 
 ## What are Clips?
 
