@@ -8,7 +8,7 @@ Clips are lightweight apps (`.rly` bundles) that run on the Relay Shell. They're
 
 ## Browse Applications
 
-See [store.json](./store.json) for the full catalog.
+See [Store](./store.json) for the full catalog.
 
 ## Installation
 
