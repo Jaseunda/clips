@@ -35,7 +35,7 @@ iwr -useb https://raw.githubusercontent.com/Jaseunda/clips/main/releases/install
 
 1. **Host (Optional)**: If you need system power, install the Relay Helper using the commands above.
 2. **Terminal**: Run `relay start` on your machine.
-3. **Mobile**: Open the [Relay Shell](https://relay.notapublicfigureanymore.com) on your phone.
+3. **Mobile**: Open the [Relay Shell](https://clips.notapublicfigureanymore.com) on your phone.
 4. **Connect**: Scan the QR code to pair.
 5. **Install**: Browse the Clips Store and grab the tools you need.
 
