@@ -87,7 +87,14 @@ install_relay() {
 
     # Remove quarantine attribute on macOS
     if [ "$OS" = "Darwin" ]; then
+        echo "Removing quarantine attribute..."
         xattr -d com.apple.quarantine "$INSTALL_DIR/relay" 2>/dev/null || true
+        
+        # Verify if it was removed
+        if xattr "$INSTALL_DIR/relay" 2>/dev/null | grep -q "com.apple.quarantine"; then
+            echo "⚠️  Warning: Failed to remove quarantine attribute."
+            echo "   Please run manually: xattr -d com.apple.quarantine $INSTALL_DIR/relay"
+        fi
     fi
     
     echo "✓ Installed to $INSTALL_DIR/relay"
