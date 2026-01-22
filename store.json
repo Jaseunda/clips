@@ -13,7 +13,7 @@
             "bundleId": "com.relay.terminal",
             "name": "Terminal",
             "description": "Full terminal access to your local machine with interactive PTY sessions.",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "sizeBytes": 2039322,
             "iconUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/assets/terminal-icon.png",
             "downloadUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/rly/terminal.rly",
