@@ -84,6 +84,11 @@ install_relay() {
     # Download bridge.py
     echo "Downloading bridge.py..."
     curl -fsSL "$REPO_URL/bridge.py" -o "$BRIDGE_DIR/bridge.py"
+
+    # Remove quarantine attribute on macOS
+    if [ "$OS" = "Darwin" ]; then
+        xattr -d com.apple.quarantine "$INSTALL_DIR/relay" 2>/dev/null || true
+    fi
     
     echo "✓ Installed to $INSTALL_DIR/relay"
 }
