@@ -1,11 +1,11 @@
 {
     "version": 1,
-    "updatedAt": "2026-01-22T04:48:00Z",
+    "updatedAt": "2026-01-22T12:00:00Z",
     "featured": {
         "title": "Terminal is here",
         "subtitle": "Full shell access on your device",
         "description": "Get complete terminal access to your local machine with interactive PTY sessions, tab support, and native performance.",
-        "imageUrl": "https://raw.githubusercontent.com/Jaseunda/clips/refs/heads/main/clips/handshake.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Jaseunda/clips/refs/heads/main/clips/assets/handshake.jpg",
         "app": "com.relay.terminal"
     },
     "apps": [
@@ -15,11 +15,11 @@
             "description": "Full terminal access to your local machine with interactive PTY sessions.",
             "version": "0.0.1",
             "sizeBytes": 2039322,
-            "iconUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/terminal-icon.png",
-            "downloadUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/terminal.rly",
+            "iconUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/assets/terminal-icon.png",
+            "downloadUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/rly/terminal.rly",
             "screenshotUrls": [
-                "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/terminal-screenshot-fb3e.png",
-                "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/terminal-screenshot-a68f.png"
+                "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/assets/terminal-screenshot-fb3e.png",
+                "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/assets/terminal-screenshot-a68f.png"
             ],
             "author": "Relay",
             "category": "Utilities",
