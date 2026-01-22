@@ -39,11 +39,11 @@ The following components have more restrictive terms:
 
 Terms for Infrastructure Components:
 
-- **Use**: You may use these components for personal and commercial purposes
-- **Distribution**: You may distribute unmodified copies
-- **Modification**: You may NOT modify, reverse-engineer, or create derivative works
-- **Redistribution of Modified Versions**: Strictly prohibited
-- **Commercial Use**: Permitted only for unmodified official versions
+- Use: You may use these components for personal and commercial purposes
+- Distribution: You may distribute unmodified copies
+- Modification: You may NOT modify, reverse-engineer, or create derivative works
+- Redistribution of Modified Versions: Strictly prohibited
+- Commercial Use: Permitted only for unmodified official versions
 
 ===============================================================================
 PART 3: CONTRIBUTION GUIDELINES
@@ -73,10 +73,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE USE OR OTHER DEALINGS IN THE MATERIALS.
 
-**Enforcement:** This license is enforceable under copyright law. Unauthorized
+Enforcement: This license is enforceable under copyright law. Unauthorized
 modification or distribution of restricted components may result in takedown
 requests, DMCA notices, or legal action.
 
-**Repository Access:** This repository remains public and cloneable, but
+Repository Access: This repository remains public and cloneable, but
 modification rights are limited as specified above.
 
