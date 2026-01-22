@@ -1,21 +1,83 @@
-MIT License
+Relay Clips License
 
 Copyright (c) 2026 Jaseunda
+Last updated: January 2026
+
+This repository uses a multi-part licensing approach to balance open contribution
+with platform stability:
+
+===============================================================================
+PART 1: STORE REGISTRY AND USER CONTRIBUTIONS (PERMISSIVE)
+===============================================================================
+
+The following components are licensed under the MIT License:
+
+1. **store.json** - The clips registry/database
+2. **assets/clips/** - User-contributed clip assets and icons
+3. **Documentation** - README.md, CONTRIBUTING.md, DEVELOPMENT.md, etc.
+
+MIT License applies to the above components:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of these materials, to deal in them without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies, and to permit persons to whom these materials
+are furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of these materials.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+===============================================================================
+PART 2: INFRASTRUCTURE AND BINARIES (RESTRICTED USE)
+===============================================================================
+
+The following components have more restrictive terms:
+
+1. **Binary executables** (relay-linux-*, relay-macos-*, relay-win-*.exe)
+2. **Installation scripts** (install.sh, install.ps1)
+3. **Core platform files** - Any code that implements the Relay platform functionality
+
+Terms for Infrastructure Components:
+
+- **Use**: You may use these components for personal and commercial purposes
+- **Distribution**: You may distribute unmodified copies
+- **Modification**: You may NOT modify, reverse-engineer, or create derivative works
+- **Redistribution of Modified Versions**: Strictly prohibited
+- **Commercial Use**: Permitted only for unmodified official versions
+
+===============================================================================
+PART 3: CONTRIBUTION GUIDELINES
+===============================================================================
+
+**Allowed Contributions:**
+- ✅ Add new clips to store.json
+- ✅ Add assets for your clips in assets/clips/
+- ✅ Improve documentation
+- ✅ Report bugs and suggest features
+
+**Prohibited Actions:**
+- ❌ Modify binary executables
+- ❌ Modify installation scripts
+- ❌ Modify core infrastructure code
+- ❌ Distribute modified versions of binaries
+- ❌ Use modified binaries commercially
+
+===============================================================================
+PART 4: LEGAL FRAMEWORK
+===============================================================================
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE USE OR OTHER DEALINGS IN THE MATERIALS.
+
+**Enforcement:** This license is enforceable under copyright law. Unauthorized
+modification or distribution of restricted components may result in takedown
+requests, DMCA notices, or legal action.
+
+**Repository Access:** This repository remains public and cloneable, but
+modification rights are limited as specified above.
+
+---
