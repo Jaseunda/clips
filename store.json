@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updatedAt": "2026-01-25T09:55:34.800Z",
+    "updatedAt": "2026-01-25T09:59:51.443Z",
     "featured": {
         "title": "Terminal is here",
         "subtitle": "Full shell access on your device",
@@ -9,6 +9,19 @@
         "app": "com.relay.terminal"
     },
     "apps": [
+        {
+            "bundleId": "com.relay.ollama",
+            "name": "Ollama",
+            "description": "Run local LLMs directly on your device with Ollama. Chat with AI models privately and securely.",
+            "version": "1.0.0",
+            "sizeBytes": 1524722,
+            "iconUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/assets/ollama-icon.png",
+            "downloadUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/rly/ollama.rly",
+            "screenshotUrls": [],
+            "author": "Relay",
+            "category": "Utilities",
+            "license": "MIT"
+        },
         {
             "bundleId": "com.relay.terminal",
             "name": "Terminal",
