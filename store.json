@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updatedAt": "2026-01-25T09:59:51.443Z",
+    "updatedAt": "2026-01-25T10:04:33.064Z",
     "featured": {
         "title": "Terminal is here",
         "subtitle": "Full shell access on your device",
@@ -30,10 +30,7 @@
             "sizeBytes": 2039322,
             "iconUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/assets/terminal-icon.png",
             "downloadUrl": "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/rly/terminal.rly",
-            "screenshotUrls": [
-                "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/assets/terminal-screenshot-fb3e.png",
-                "https://raw.githubusercontent.com/Jaseunda/clips/main/clips/assets/terminal-screenshot-a68f.png"
-            ],
+            "screenshotUrls": [],
             "author": "Relay",
             "category": "Utilities",
             "license": "MIT"
